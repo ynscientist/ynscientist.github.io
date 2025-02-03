@@ -1,1 +1,5 @@
+User-agent: CCBot
+Disallow: /
+
 Sitemap: https://ynscientist.github.io/sitemap.xml
+
