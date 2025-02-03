@@ -1,5 +1,6 @@
 ---
-title: "Your Neighborhood Scientist"
+title: "Latest posts"
+description: ""
 listing:
   contents: posts
   sort: "date desc"

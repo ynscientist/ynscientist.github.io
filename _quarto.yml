@@ -6,7 +6,7 @@ website:
   description: "science news for everyone"
   site-url: https://ynscientist.github.io # TODO change to custom domain
   repo-url: https://github.com/ynscientist/ynscientist.github.io # TODO change to website repo
-  favicon: TODO
+  #favicon: TODO
   open-graph: true
   search:
     location: navbar
@@ -14,16 +14,12 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
       - icon: rss
         href: index.xml
 
 format:
   html:
-    theme: 
+    theme:
       - brand
       - cosmo
     css: styles.css

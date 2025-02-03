@@ -1,8 +1,10 @@
 ---
-title: "About YNS"
+title: "About"
+description: "Your Neighborhood Scientist"
 image: TODO
 about:
   template: jolla
+  id: about
   links:
     - icon: envelope
       href: mailto:TODO
@@ -17,4 +19,8 @@ about:
 
 ---
 
-About this blog
+:::{#about}
+
+TODO About this blog
+
+:::
