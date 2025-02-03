@@ -3,8 +3,8 @@ project:
 
 website:
   title: "Your Neighborhood Scientist"
-  description: "science news for everyone"
   site-url: https://ynscientist.github.io # TODO change to custom domain
+  description: "science news for everyone"
   repo-url: https://github.com/ynscientist/ynscientist.github.io # TODO change to website repo
   #favicon: TODO
   open-graph: true
@@ -23,7 +23,7 @@ format:
       - brand
       - cosmo
     css: styles.css
-    embed-resources: true
+    embed-resources: false
 
 execute:
   freeze: auto
