@@ -1,2 +1,1 @@
-# sandbox
-a playground for our ideas
+# Your Neighborhood Scientist
