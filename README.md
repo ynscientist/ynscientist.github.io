@@ -1,2 +1,2 @@
-# ynscientist.github.io
-Your Neighborhood Scientist
+# sandbox
+a playground for our ideas

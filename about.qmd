@@ -1,0 +1,20 @@
+---
+title: "About YNS"
+image: TODO
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: mailto:TODO
+    - text: "{{< fa brands bluesky >}}" # https://github.com/FortAwesome/Font-Awesome/issues/19810
+      href: https://bsky.app/profile/TODO
+      rel: me
+    - icon: facebook
+      href: https://TODO
+    - icon: github
+      text: Github
+      href: https://github.com/ynscientist
+
+---
+
+About this blog
