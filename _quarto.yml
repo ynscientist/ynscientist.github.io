@@ -8,20 +8,30 @@ website:
   repo-url: https://github.com/ynscientist/ynscientist.github.io # TODO change to website repo
   #favicon: TODO
   open-graph: true
-  margin-header: subscribe.html
   search:
     location: navbar
     type: textbox
   navbar:
     right:
       - about.qmd
+  page-footer:
+    left: "Your Neighborhood Scientist"
+    center:
+      - about.qmd
+      - faq.qmd
+      - license.qmd
+    right:
+      - icon: github
+        href: https://github.com/ynscientist/
+        aria-label: GitHub organization
       - icon: rss
         href: index.xml
+        aria-label: RSS Feed
 
 format:
   html:
     theme:
-      - brand
+      #- brand
       - cosmo
     css: styles.css
     embed-resources: false
