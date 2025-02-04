@@ -1,0 +1,10 @@
+---
+title: "Hello world!"
+author: "Jane Doe"
+date: "2025-02-04"
+categories: [news]
+---
+
+Testing out the RSS-to-email connection
+
+![](thumbnail.jpg)
