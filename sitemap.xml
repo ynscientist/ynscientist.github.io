@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ynscientist.github.io/posts/welcome/index.html</loc>
-    <lastmod>2025-02-04T19:36:44.042Z</lastmod>
+    <lastmod>2025-02-06T15:16:56.031Z</lastmod>
   </url>
   <url>
     <loc>https://ynscientist.github.io/posts/hello-world/index.html</loc>
-    <lastmod>2025-02-04T19:36:44.041Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ynscientist.github.io/about.html</loc>
-    <lastmod>2025-02-04T19:36:44.041Z</lastmod>
+    <lastmod>2025-02-06T15:16:56.030Z</lastmod>
   </url>
   <url>
     <loc>https://ynscientist.github.io/index.html</loc>
-    <lastmod>2025-02-04T19:36:44.041Z</lastmod>
+    <lastmod>2025-02-06T15:16:56.030Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ynscientist.github.io/about.html</loc>
+    <lastmod>2025-02-06T15:16:56.030Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ynscientist.github.io/posts/hello-world-2/index.html</loc>
+    <lastmod>2025-02-06T15:16:56.030Z</lastmod>
   </url>
   <url>
     <loc>https://ynscientist.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2025-02-04T19:36:44.041Z</lastmod>
+    <lastmod>2025-02-06T15:16:56.031Z</lastmod>
   </url>
 </urlset>
